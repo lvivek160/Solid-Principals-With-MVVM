@@ -1,1 +1,0 @@
-# Solid-Principals-With-MVVM
